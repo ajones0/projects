@@ -1,3 +1,3 @@
 # Bracket Assembly
 
-![Alt text](./bracket.png?raw=true "Title")
+![Alt text](./images/bracket.png?raw=true "Title")
