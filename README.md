@@ -1,2 +1,2 @@
-# projects
-Mechanical Engineering Projects
+# Projects
+Mechanical Engineering Projects by Anna Jones.
